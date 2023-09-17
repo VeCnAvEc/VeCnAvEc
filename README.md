@@ -67,6 +67,7 @@ React Js framework for UI <code><img height="20" src="https://raw.githubusercont
 Node.js runtime environment and library for Javascirpt <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 Git runtime environment and library <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>    
 Docker container and docker-compose <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>  
+Linux/Ubuntu <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>  
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
