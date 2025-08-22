@@ -6,8 +6,11 @@
 **A bit about myself**  
 Hello!  
 My name is Danil,  
-and I'm a backend and blockchain developer who has worked in several companies.   
-I primarily held the position of a backend developer because my preferences lie in working with powerful servers and everything related to networks.
+and I have worked with many different areas: blockchain, backend, and even some frontend.  
+I have also set up certain blockchain nodes and occasionally handled basic server configurations.  
+At the moment, I prefer to focus on blockchain development and, possibly, backend work.  
+My frontend skills are quite limited — for example, I wouldn’t take on a production-level frontend,  
+but I can create simple components when needed.
 
 What have I developed in the backend field? Let me list it for you:  
 
@@ -18,7 +21,9 @@ What have I developed in the backend field? Let me list it for you:
 4. Deploying web applications
 5. Integrations with various payment API gateways
 6. Automation of accounting reports
-7. Working with databases
+7. Working with databases, I don't have much experience, but I have it
+8. Using Redis for caching and backend communication
+9. Using RabbitMQ for message brokering
 ```
 
 I also tried my hand at blockchain development, which I found more interesting than backend development.  
@@ -29,6 +34,9 @@ Here's my experience in blockchain:
 1. Developed a mining pool for the Ironfish blockchain (PoW) using programming languages like Node.js and Rust.
 2. Created a crypto game on a smart contract using Solidity.
 3. Developed an airdrop on a smart contract using Solidity.
+4. Developed two types of mining pools at HashC:
+   - Mining proxy pool based on the Stratum protocol (implemented for the BTC network).
+   - Mining solo pool (unfinished), with task generation, coinbase_tx creation, block mining, and reward distribution.
 ```
 
 Regarding my experience in frontend development:  
@@ -44,6 +52,27 @@ Companies I have worked for:
 1. [Life Style](https://www.life-style.uz/).
 2. [Second World](https://secondworld.life/) <img height="20" src=".\icons\secondworld.png">
 3. [Payment System Platform](https://psp.uz/ru/) <img height="20" src=".\icons\psp.uz.png">
+4. [HashC] Unfortunately, there is currently no official website
+
+**My experience at HashC**
+
+At HashC, I worked as a blockchain developer from February 2024 to March 2025.
+I was mainly responsible for the core development of our mining pool and additional tools for it.
+
+Here are my key contributions:
+
+1. Developed a mining proxy pool based on the Stratum protocol.
+   - Aggregated network traffic from miners into a single connection
+     and redirected shares to the main pool.
+   - Implemented for the BTC network.
+
+2. Worked on a solo mining pool (unfinished).
+   - Aimed to build a fully functional pool with task generation,
+     coinbase_tx creation, block mining, and reward distribution.
+
+3. Integrated Redis into pool projects.
+   - Used for communication between backend and frontend.
+   - Planned migration to RabbitMQ or Kafka, but it was not completed.
 
 Positions held in these companies:
 
@@ -51,12 +80,14 @@ Positions held in these companies:
 1. Life Style - Intern Frontend Developer
 2. Second World - Blockchain + Backend Developer
 3. Payment System Platform - Backend Developer
+4. HashC - Blockchain Developer
 ```
 Duration of employment:
 ```txt
 1. Life Style - 2 months
 2. Second World - 7 months
 3. Payment System Platform - 1 year
+4. HashC - 1 year 2 months
 ```
 **languages and tools:**  
 
