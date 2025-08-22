@@ -107,10 +107,3 @@ Linux/Ubuntu <code><img height="20" src="https://raw.githubusercontent.com/githu
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VeCnAvEc&show_icons=true&theme=gotham" alt="VeCnAvEc" />  
-
-I'm sorry, but I've lost all of my commits since my last project was deleted from my Git repository. However, I do have a screenshot of all the commits I made
-
-**My private repository with part of my commits**
-1. <img height="800" src=".\icons\total_commits.jpg">
-
-2. <img height="800" src=".\icons\show_commits.png">
