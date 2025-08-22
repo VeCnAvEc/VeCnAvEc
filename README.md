@@ -22,8 +22,8 @@ What have I developed in the backend field? Let me list it for you:
 5. Integrations with various payment API gateways
 6. Automation of accounting reports
 7. Working with databases, I don't have much experience, but I have it
-8. Using Redis for caching and backend communication
-9. Using RabbitMQ for message brokering
+8. Using Redis for caching and backend communication(Not much experience)
+9. Using RabbitMQ for message brokering(Not much experience)
 ```
 
 I also tried my hand at blockchain development, which I found more interesting than backend development.  
