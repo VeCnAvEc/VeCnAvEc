@@ -1,7 +1,7 @@
 **My contacts**  
 [<img height="20" src=".\icons\telegram.png" alt="telegram">](https://t.me/VeCnAvEc)
 [<img height="20" src=".\icons\gmail.png" alt="gmail">](https://pankovdanil587@gmail.com)
-[<img height="20" src=".\icons\linkedin.png" alt="linkedin">](#)
+[<img height="20" src=".\icons\linkedin.png" alt="linkedin">](https://www.linkedin.com/in/данил-панков-479239277/)
 
 **A bit about myself**  
 Hello!  
