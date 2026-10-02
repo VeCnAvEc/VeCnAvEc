@@ -149,6 +149,7 @@ Git runtime environment and library <code><img height="20" src="https://raw.gith
 Docker container and docker-compose <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>  
 nginx web server <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png"></code>  
 Linux/Ubuntu <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>  
+AI tools and AI agents for development: task setting, parallel agents, review of the result <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png"></code>  
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -156,4 +157,4 @@ Linux/Ubuntu <code><img height="20" src="https://raw.githubusercontent.com/githu
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VeCnAvEc&show_icons=true&theme=gotham" alt="VeCnAvEc" />  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VeCnAvEc&show_icons=true&include_all_commits=true&theme=gotham" alt="VeCnAvEc" />  
